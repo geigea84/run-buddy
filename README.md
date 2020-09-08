@@ -12,3 +12,5 @@ https://geigea84.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Aaron Geiger
+
+### ©️2019 Run Buddy, Inc
